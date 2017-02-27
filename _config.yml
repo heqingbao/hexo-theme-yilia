@@ -2,7 +2,8 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  # 随笔: /tags/随笔/
+  公益404: /404.html
 
 # SubNav
 subnav:
