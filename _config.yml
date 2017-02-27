@@ -6,17 +6,17 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/heqingbao"
+  weibo: "http://weibo.com/2031839077"
+  #rss: "#"
+  #zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
   #douban: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:qingbao.ho@gmail.com"
   #facebook: "#"
-  #google: "#"
+  google: "https://plus.google.com/u/0/109854625733827599006"
   #twitter: "#"
   #linkedin: "#"
 
@@ -36,19 +36,19 @@ show_all_link: '展开全文'
 # 数学公式
 mathjax: false
 # 是否在新窗口打开链接
-open_in_new: false
+open_in_new: true
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏基础设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
-reward_type: 2
+reward_type: 0
 # 打赏wording
 reward_wording: '谢谢你请我吃糖果'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: 
+alipay: /assets/img/alipay.jpg
 # 微信二维码图片地址
-weixin: 
+weixin: /assets/img/wxpay.jpg
 
 # Miscellaneous
 baidu_analytics: ''
@@ -56,7 +56,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: /uploads/avatar.jpg
 
 #是否开启分享
 share_jia: true
@@ -84,7 +84,7 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  # friends: '友链'
   aboutme: '关于我'
 
 friends:
@@ -95,4 +95,4 @@ friends:
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 这个人很懒，什么都没留下
